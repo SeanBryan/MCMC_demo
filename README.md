@@ -29,7 +29,7 @@ The demo code assumes some ground truth for the parameters m and b, and selects 
 %run emcee_demo_linear.py
 ```
 
-the two figures below should appear.
+the two figures below should appear. The exact values may change slightly, since new random numbers are generated at each run, but they should be very similar.
 
 ![Best Fit](emcee_demo_bestfit.png?raw=true)
 ![Best Fit](emcee_demo_triangleplot.png?raw=true)
