@@ -1,5 +1,5 @@
 # MCMC Demo
-Code demonstrating Dan Foreman-Mackey's emcee code for MCMC fitting, and comparison with a generalized linear fitting that I wrote.
+Code demonstrating Dan Foreman-Mackey's emcee code for MCMC fitting, and comparison with a generalized linear fitting that I wrote. (Note that I posted notes and demo code from a talk at DesertPy Data Science Workshop 2015, so look there for more info.)
 
 # Introduction
 
